@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nellyngangmi
 - 👀 I’m interested in data.
-- 🌱 I’m currently learning data scienec
+- 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
